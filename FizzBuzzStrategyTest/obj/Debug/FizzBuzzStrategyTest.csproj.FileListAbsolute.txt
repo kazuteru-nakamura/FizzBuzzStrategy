@@ -1,0 +1,12 @@
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\bin\Debug\FizzBuzzStrategyTest.dll
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\bin\Debug\FizzBuzzStrategyTest.pdb
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\bin\Debug\FizzBuzzStrategy.exe
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\bin\Debug\FizzBuzzStrategy.pdb
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\bin\Debug\FizzBuzzStrategy.exe.config
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\obj\Debug\FizzBuzzStrategyTest.csprojAssemblyReference.cache
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\obj\Debug\FizzBuzzStrategyTest.csproj.CoreCompileInputs.cache
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\obj\Debug\FizzBuzzStrategyTest.csproj.CopyComplete
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\obj\Debug\FizzBuzzStrategyTest.dll
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategyTest\obj\Debug\FizzBuzzStrategyTest.pdb

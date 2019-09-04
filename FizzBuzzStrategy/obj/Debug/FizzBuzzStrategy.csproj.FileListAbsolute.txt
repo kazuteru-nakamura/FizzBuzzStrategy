@@ -1,0 +1,6 @@
+c:\users\kazuteru.nakamura\documents\visual studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategy\bin\Debug\FizzBuzzStrategy.exe.config
+c:\users\kazuteru.nakamura\documents\visual studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategy\bin\Debug\FizzBuzzStrategy.exe
+c:\users\kazuteru.nakamura\documents\visual studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategy\bin\Debug\FizzBuzzStrategy.pdb
+c:\users\kazuteru.nakamura\documents\visual studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategy\obj\Debug\FizzBuzzStrategy.exe
+c:\users\kazuteru.nakamura\documents\visual studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategy\obj\Debug\FizzBuzzStrategy.pdb
+C:\Users\kazuteru.nakamura\Documents\Visual Studio 2015\Projects\FizzBuzzStrategy\FizzBuzzStrategy\obj\Debug\FizzBuzzStrategy.csproj.CoreCompileInputs.cache

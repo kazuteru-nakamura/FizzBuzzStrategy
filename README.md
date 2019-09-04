@@ -1,0 +1,2 @@
+# FizzBuzzStrategy
+わざわざStrategyパターンで実装したFizzBuzz
